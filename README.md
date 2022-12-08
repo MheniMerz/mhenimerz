@@ -3,7 +3,7 @@
 <!--
 **MheniMerz/mhenimerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![mhenimerz](https://github-readme-stats.vercel.app/api?username=mhenimerz&count_private=true&show_icons=true&include_all_commits=true)
+![mhenimerz](https://github-readme-stats.vercel.app/api?username=mhenimerz&count_private=true&show_icons=true&include_all_commits=true&PAT_1=xXiKlzFG2ePkR3Jyk83P9FPH)
 
 <a href="https://www.linkedin.com/in/mhenimerz/">
   <img align="left" alt="mheni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
