@@ -15,7 +15,6 @@
   <img align="left" alt="mheni's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhenimerz.mhenimerz)
 
 Here are some ideas to get you started:
 
