@@ -16,7 +16,7 @@
 </a>
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Network Automation at NIST
 - 🌱 I’m currently learning many things focused on making networks perform better and easily manageable, and also network design.
