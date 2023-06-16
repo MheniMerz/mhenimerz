@@ -3,9 +3,12 @@
 <!--
 **MheniMerz/mhenimerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![mhenimerz](https://github-readme-stats.vercel.app/api?username=mhenimerz&count_private=true&show_icons=true&include_all_commits=true&PAT_1=xXiKlzFG2ePkR3Jyk83P9FPH)
+[![MheniMerz's GitHub | Languages Over Time](https://stats.quine.sh/MheniMerz/languages-over-time?theme=dark)](https://quine.sh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhenimerz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![MheniMerz's GitHub | Stats](https://stats.quine.sh/MheniMerz/github?theme=dark)](https://quine.sh)
+
+
 
 <a href="https://www.linkedin.com/in/mhenimerz/">
   <img align="left" alt="mheni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -14,8 +17,6 @@
   <img align="left" alt="mheni's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-
-[![MheniMerz's GitHub | Languages Over Time](https://stats.quine.sh/MheniMerz/languages-over-time?theme=dark)](https://quine.sh)
 
 
 # 
