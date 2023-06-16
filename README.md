@@ -7,13 +7,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhenimerz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <a href="https://www.linkedin.com/in/mhenimerz/">
   <img align="left" alt="mheni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/mheniMerz">
   <img align="left" alt="mheni's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+
+[![MheniMerz's GitHub | Languages Over Time](https://stats.quine.sh/MheniMerz/languages-over-time?theme=dark)](https://quine.sh)
 
 
 # 
