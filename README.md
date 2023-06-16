@@ -3,10 +3,11 @@
 <!--
 **MheniMerz/mhenimerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![MheniMerz's GitHub | Languages Over Time](https://stats.quine.sh/MheniMerz/languages-over-time?theme=dark)](https://quine.sh)
-
-
 [![MheniMerz's GitHub | Stats](https://stats.quine.sh/MheniMerz/github?theme=dark)](https://quine.sh)
+
+
+
+[![MheniMerz's GitHub | Languages Over Time](https://stats.quine.sh/MheniMerz/languages-over-time?theme=dark)](https://quine.sh)
 
 
 
